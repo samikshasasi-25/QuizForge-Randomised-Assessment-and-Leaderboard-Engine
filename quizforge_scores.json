@@ -1,0 +1,52 @@
+[
+    {
+        "name": "sami",
+        "topic": "Data Structures",
+        "score": -2,
+        "total_questions": 3,
+        "correct": 0,
+        "incorrect": 2,
+        "unanswered": 1,
+        "percentage": -16.67,
+        "accuracy": 0.0,
+        "date": "2026-11-15 14:34:57"
+    },
+    {
+        "name": "sami",
+        "topic": "DBMS",
+        "score": 3,
+        "total_questions": 3,
+        "correct": 1,
+        "incorrect": 1,
+        "unanswered": 1,
+        "percentage": 25.0,
+        "accuracy": 33.33,
+        "date": "2026-11-15 14:54:05"
+    },
+    {
+        "name": "sami",
+        "topic": "Algorithms",
+        "mode": "Normal",
+        "score": 5,
+        "total_questions": 5,
+        "correct": 2,
+        "incorrect": 3,
+        "unanswered": 0,
+        "percentage": 25.0,
+        "accuracy": 40.0,
+        "date": "2026-11-15 17:40:48"
+    },
+    {
+        "name": "nidhi",
+        "topic": "C Programming",
+        "mode": "Normal",
+        "score": 0,
+        "total_questions": 5,
+        "correct": 1,
+        "incorrect": 4,
+        "unanswered": 0,
+        "percentage": 0.0,
+        "accuracy": 20.0,
+        "date": "2026-11-15 17:45:19"
+    }
+]
